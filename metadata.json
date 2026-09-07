@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Médico",
+  "description": "Sistema de gestão integrado para consultórios médicos com agenda, prontuário eletrônico, financeiro operacional, conciliação bancária, caixa físico, estoque de insumos e comunicação via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
